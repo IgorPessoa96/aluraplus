@@ -170,5 +170,17 @@ body {
         .rodape__lista{
             display: block;
         }
+        .lista__link{
+            display: block;
+        }
+        .rodape__logo{
+            text-align: center;
+            margin: 0 9.5em;
+        }
+        .dispositivos__titulo{
+            display: block;
+            margin: 0;
+            
+        }
 }
 
